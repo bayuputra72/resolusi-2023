@@ -5,4 +5,4 @@ Resolusi 2023
 - Belajar Express JS
 - Belajar Node JS
 - Belajar MongoDB
-- Belajar UI/UX
+- Belajar Postgre SQL
