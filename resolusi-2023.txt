@@ -1,0 +1,6 @@
+Resolusi 2023
+- Belajar JavaScript
+- Belajar ReactJS
+- Belajar TypeScript
+- Belajar Express JS
+- Belajar Node JS
