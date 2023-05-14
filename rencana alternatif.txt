@@ -1,6 +1,8 @@
 Rencana alternatif saya:
 -Belajar UI/UX
 -Belajar Graphic Design 
+  ^Figma
+  ^Photoshop
 -Belajar Video Editing
 -Belajar Vector
 -Fundamental UI/UX
