@@ -1,8 +1,10 @@
 Rencana alternatif saya:
 -Belajar UI/UX
 -Belajar Graphic Design 
+  ^Corel Draw
+  ^Adobe Illustrator
   ^Figma
   ^Photoshop
 -Belajar Video Editing
 -Belajar Vector
--Fundamental UI/UX
+
